@@ -3,7 +3,7 @@ import webbrowser
 from telebot import types
 import DataBaseConnect
 import downloadPHOTO
-bot = telebot.TeleBot('6154059495:AAH1iTt4wXoStdT0GF_WXHwyvrodJ7YWcKw')
+# bot = telebot.TeleBot('Secrete Information : )))')
 
 
 query_24 = """
