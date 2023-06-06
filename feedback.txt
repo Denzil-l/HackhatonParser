@@ -1,0 +1,9 @@
+Denis
+Your project is remarkable! 
+It's comprehensive and makes good use of all the concepts we've covered up until week 4. 
+Just a small point to improve on: 
+Add a README file with instructions to run the program, and a requirements.txt with the necessary modules to be installed.
+Python OOP: 10/10
+Databases: 10/10
+API/JSON: 10/10
+General score: 10
